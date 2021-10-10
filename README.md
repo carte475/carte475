@@ -1,4 +1,4 @@
-## 👋 Hello all, I’m Travis Carter
+## 👋 Hello, I’m Travis Carter
 
 I am a 3rd year Ph.D. student in the School of Criminal Justice (SCJ) at Michigan State University.  
 My research interests are centered on crime trends, policing, and the community context of crime.  
