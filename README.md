@@ -4,7 +4,7 @@ I am a 3rd year Ph.D. student in the School of Criminal Justice (SCJ) at Michiga
 My research interests are centered on crime trends, policing, and the community context of crime.  
 I am a quantitative researcher by nature, and have advanced training in a variety of statistical methods when leveraging time series analysis, structural equation modeling, multi-level modeling, missing data management, and categorical data analysis.  
 You can find my directory page here at the [SCJ](https://cj.msu.edu/directory/carter-travis.html).    
-Please also check out my [CV](https://github.com/carte475/Welcome/blob/main/RMARKDOWN-CV.pdf)!    
+Please also check out my [CV](https://github.com/carte475/Welcome/blob/main/CV_RMARKDOWN.pdf)!    
 
 
 
