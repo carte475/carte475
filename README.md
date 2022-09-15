@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Travis Carter
 
-I am a 3rd year Ph.D. student in the School of Criminal Justice (SCJ) at Michigan State University.     
+I am a 4th-year Ph.D. student in the School of Criminal Justice (SCJ) at Michigan State University.     
 
 My research interests are centered on the intersection between crime and policing in communities. I focus specifically on how these patterns of behavior change over time and how they can have varying influences on the well-being of those who live in these communities.   
 
