@@ -8,7 +8,7 @@ I am a quantitative researcher by nature, and have advanced training in a variet
 
 You can find my directory page here at the [SCJ](https://cj.msu.edu/directory/carter-travis.html).     
 
-Please also check out my [CV](https://github.com/carte475/Welcome/blob/main/NEW_CV_11152022.pdf)!    
+Please also check out my [CV](https://github.com/carte475/Welcome/blob/main/TravisCarter_CV_02062023.pdf)!    
 
 
 
