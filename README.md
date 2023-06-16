@@ -1,14 +1,14 @@
 ## 👋 Hello, I’m Travis Carter
 
-I am a 4th-year Ph.D. student in the School of Criminal Justice (SCJ) at Michigan State University.     
+I am a Ph.D. candidate in the School of Criminal Justice at Michigan State University.
 
-My research interests are centered on the intersection between crime and policing in communities. I focus specifically on how these patterns of behavior change over time and how they can have varying influences on the well-being of those who live in these communities.   
+I work with police agencies in Michigan to enhance police-citizen relationships and conduct program evaluations that foster sustainable policing solutions.
 
 I am a quantitative researcher by nature, and have advanced training in a variety of statistical methods when leveraging time series analysis, structural equation modeling, multi-level modeling, missing data management, and categorical data analysis.    
 
 You can find my directory page here at the [SCJ](https://cj.msu.edu/directory/carter-travis.html).     
 
-Please also check out my [CV](https://github.com/carte475/Welcome/blob/main/TravisCarter_CV_02062023.pdf)!    
+Please also check out my [CV](https://drive.google.com/file/d/1oPPyIckxAXSCWQyIjf_iQekoF8l6h0Xy/view?usp=sharing)!    
 
 
 
