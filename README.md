@@ -4,7 +4,7 @@ I am a Ph.D. candidate in the School of Criminal Justice at Michigan State Unive
 
 I work with police agencies in Michigan to enhance police-citizen relationships and conduct program evaluations that foster sustainable policing solutions.
 
-I am a quantitative researcher by nature, and have advanced training in a variety of statistical methods when leveraging time series analysis, structural equation modeling, multi-level modeling, missing data management, and categorical data analysis.    
+I am a quantitative researcher by nature and have advanced training in a variety of statistical methods including time series analysis, structural equation modeling, multi-level modeling, missing data management, and categorical data analysis. 
 
 You can find my directory page here at the [SCJ](https://cj.msu.edu/directory/carter-travis.html).     
 
